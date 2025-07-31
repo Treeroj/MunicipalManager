@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.Properties.Resources.resources
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\bin\Debug\MunicipalManager.exe.config
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\bin\Debug\MunicipalManager.exe
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\bin\Debug\MunicipalManager.pdb
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.exe
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.pdb
+C:\Users\User\source\repos\MunicipalManager\MunicipalManager\obj\Debug\MunicipalManager.exe.config
